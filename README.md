@@ -1,1 +1,1 @@
-# rust_mysql_binlog
+# rust-mysql-binlog
